@@ -32,7 +32,9 @@ public class FunctionApproximation {
     }
 }
 
-// Tab - клас для друку таблиці
+/**
+ * Tab - клас для друку таблиці
+ */ 
 class Tab {
     private String n1, n2, n3, n4, n5, n6;
     private String br0 = "+------------";
